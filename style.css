@@ -1,0 +1,139 @@
+body {
+    font-family: arial;
+    margin: 0%;
+    padding: 0%;
+    background-color: pink;
+}
+
+header {
+    background-color: rgb(242, 17, 17);
+    color: white;
+    padding: 2px;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0px;
+
+    
+}
+nav ul li {
+    
+    margin: 0px 15px;
+    display: inline-block;
+    
+}
+nav ul li a {
+    color: white;
+}
+main {
+    padding: 2rem;
+    background-color: white;
+}
+footer {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin: 0%;
+}
+.image_section {
+    display: flex;
+    justify-content: space-around;
+}
+.Homeimage {
+    width: 400px;
+    height: 300px;
+    
+}
+.video_section {
+    margin: 2rem;
+    text-align: center;
+
+
+}
+#Home_section {
+    text-align: center;
+}
+#About_content {
+    text-align: left;
+}
+ #secti {
+    text-align: left;
+ }
+ h1.contact_us {
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+ }
+ .rex {
+    text-align: center;
+    font-size: 40px;
+    
+    
+ }
+ .rex span {
+    color: yellow;
+
+
+ }
+
+
+ .huda {
+    background-color: white;
+    text-align: center;
+    padding: 2px;
+    margin: 0px;
+    align-items: center;
+ }
+ 
+ .huda ul li a {
+    margin: 0px 16px;
+    color: black;
+ }
+ .huda ul {
+    text-align: left;
+ }
+ .huda ul li {
+    display: inline-block;
+    margin: 0px 1px;
+    
+ }
+
+ .huda ul li a:hover {
+    color: greenyellow;
+ }
+
+ .form {
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: auto;
+    width: 400px;
+    padding: 5px;
+
+ }
+ #fillup {
+    
+ }
+ .job {
+    border-radius: 8px;
+    width: 300px;
+    height: 20px;
+ }
+ .foot {
+    color: white;
+    padding: 1px;
+    margin: 0px;
+ }
+ .details {
+    text-align: right;
+ }
+ .detai {
+    padding: 4px;
+    color: white;
+ }
+ 
+ 
+ 
